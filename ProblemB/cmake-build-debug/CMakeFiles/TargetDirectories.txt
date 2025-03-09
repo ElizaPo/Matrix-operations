@@ -1,0 +1,3 @@
+/Users/smelisaveta/Desktop/studia/Extra/Programowanie/ProblemB/cmake-build-debug/CMakeFiles/ProblemB.dir
+/Users/smelisaveta/Desktop/studia/Extra/Programowanie/ProblemB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/smelisaveta/Desktop/studia/Extra/Programowanie/ProblemB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
